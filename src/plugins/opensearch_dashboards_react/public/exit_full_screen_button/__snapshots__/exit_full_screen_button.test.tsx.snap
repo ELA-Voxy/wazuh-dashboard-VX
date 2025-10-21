@@ -145,7 +145,7 @@ exports[`ExitFullScreenButton is rendered using the light theme's mark when dark
         >
           <EuiIcon
             size="l"
-            type="/ui/logos/wazuh_mark_on_light.svg"
+            type="/ui/logos/vx.svg"
           />
         </EuiFlexItem>
         <EuiFlexItem

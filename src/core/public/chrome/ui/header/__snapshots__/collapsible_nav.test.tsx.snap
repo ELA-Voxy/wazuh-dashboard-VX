@@ -170,10 +170,10 @@ exports[`CollapsibleNav renders links grouped by category 1`] = `
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_mark_on_light.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_mark_on_light.svg",
+        "url": "/test/ui/logos/vx.svg",
       },
       "OpenSearch": Object {
         "dark": Object {
@@ -817,9 +817,9 @@ exports[`CollapsibleNav renders links grouped by category 1`] = `
             className="euiFlexItem eui-yScroll"
           >
             <EuiCollapsibleNavGroup
-              data-test-opensearch-logo="/test/ui/logos/wazuh_mark_on_light.svg"
+              data-test-opensearch-logo="/test/ui/logos/vx.svg"
               data-test-subj="collapsibleNavGroup-opensearchDashboards"
-              iconType="/test/ui/logos/wazuh_mark_on_light.svg"
+              iconType="/test/ui/logos/vx.svg"
               initialIsOpen={true}
               isCollapsible={true}
               key="opensearchDashboards"
@@ -840,7 +840,7 @@ exports[`CollapsibleNav renders links grouped by category 1`] = `
                     >
                       <EuiIcon
                         size="l"
-                        type="/test/ui/logos/wazuh_mark_on_light.svg"
+                        type="/test/ui/logos/vx.svg"
                       />
                     </EuiFlexItem>
                     <EuiFlexItem>
@@ -858,7 +858,7 @@ exports[`CollapsibleNav renders links grouped by category 1`] = `
                   </EuiFlexGroup>
                 }
                 className="euiCollapsibleNavGroup euiCollapsibleNavGroup--withHeading"
-                data-test-opensearch-logo="/test/ui/logos/wazuh_mark_on_light.svg"
+                data-test-opensearch-logo="/test/ui/logos/vx.svg"
                 data-test-subj="collapsibleNavGroup-opensearchDashboards"
                 id="mockId"
                 initialIsOpen={true}
@@ -869,7 +869,7 @@ exports[`CollapsibleNav renders links grouped by category 1`] = `
               >
                 <div
                   className="euiAccordion euiAccordion-isOpen euiCollapsibleNavGroup euiCollapsibleNavGroup--withHeading"
-                  data-test-opensearch-logo="/test/ui/logos/wazuh_mark_on_light.svg"
+                  data-test-opensearch-logo="/test/ui/logos/vx.svg"
                   data-test-subj="collapsibleNavGroup-opensearchDashboards"
                   onToggle={[Function]}
                 >
@@ -918,10 +918,10 @@ exports[`CollapsibleNav renders links grouped by category 1`] = `
                               >
                                 <EuiIcon
                                   size="l"
-                                  type="/test/ui/logos/wazuh_mark_on_light.svg"
+                                  type="/test/ui/logos/vx.svg"
                                 >
                                   <span
-                                    data-euiicon-type="/test/ui/logos/wazuh_mark_on_light.svg"
+                                    data-euiicon-type="/test/ui/logos/vx.svg"
                                     size="l"
                                   />
                                 </EuiIcon>
@@ -2118,10 +2118,10 @@ exports[`CollapsibleNav renders the default nav 1`] = `
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_mark_on_light.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_mark_on_light.svg",
+        "url": "/test/ui/logos/vx.svg",
       },
       "OpenSearch": Object {
         "dark": Object {
@@ -2424,10 +2424,10 @@ exports[`CollapsibleNav renders the default nav 2`] = `
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_mark_on_light.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_mark_on_light.svg",
+        "url": "/test/ui/logos/vx.svg",
       },
       "OpenSearch": Object {
         "dark": Object {
@@ -2730,10 +2730,10 @@ exports[`CollapsibleNav renders the default nav 3`] = `
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_mark_on_light.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_mark_on_light.svg",
+        "url": "/test/ui/logos/vx.svg",
       },
       "OpenSearch": Object {
         "dark": Object {
@@ -5571,7 +5571,7 @@ exports[`CollapsibleNav without custom branding renders the nav bar in dark mode
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_mark_on_light.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
         "url": "/test/ui/logos/wazuh_mark_on_dark.svg",
@@ -6679,10 +6679,10 @@ exports[`CollapsibleNav without custom branding renders the nav bar in default m
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_mark_on_light.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_mark_on_light.svg",
+        "url": "/test/ui/logos/vx.svg",
       },
       "OpenSearch": Object {
         "dark": Object {
@@ -7090,9 +7090,9 @@ exports[`CollapsibleNav without custom branding renders the nav bar in default m
             className="euiFlexItem eui-yScroll"
           >
             <EuiCollapsibleNavGroup
-              data-test-opensearch-logo="/test/ui/logos/wazuh_mark_on_light.svg"
+              data-test-opensearch-logo="/test/ui/logos/vx.svg"
               data-test-subj="collapsibleNavGroup-opensearchDashboards"
-              iconType="/test/ui/logos/wazuh_mark_on_light.svg"
+              iconType="/test/ui/logos/vx.svg"
               initialIsOpen={true}
               isCollapsible={true}
               key="opensearchDashboards"
@@ -7113,7 +7113,7 @@ exports[`CollapsibleNav without custom branding renders the nav bar in default m
                     >
                       <EuiIcon
                         size="l"
-                        type="/test/ui/logos/wazuh_mark_on_light.svg"
+                        type="/test/ui/logos/vx.svg"
                       />
                     </EuiFlexItem>
                     <EuiFlexItem>
@@ -7131,7 +7131,7 @@ exports[`CollapsibleNav without custom branding renders the nav bar in default m
                   </EuiFlexGroup>
                 }
                 className="euiCollapsibleNavGroup euiCollapsibleNavGroup--withHeading"
-                data-test-opensearch-logo="/test/ui/logos/wazuh_mark_on_light.svg"
+                data-test-opensearch-logo="/test/ui/logos/vx.svg"
                 data-test-subj="collapsibleNavGroup-opensearchDashboards"
                 id="mockId"
                 initialIsOpen={true}
@@ -7142,7 +7142,7 @@ exports[`CollapsibleNav without custom branding renders the nav bar in default m
               >
                 <div
                   className="euiAccordion euiAccordion-isOpen euiCollapsibleNavGroup euiCollapsibleNavGroup--withHeading"
-                  data-test-opensearch-logo="/test/ui/logos/wazuh_mark_on_light.svg"
+                  data-test-opensearch-logo="/test/ui/logos/vx.svg"
                   data-test-subj="collapsibleNavGroup-opensearchDashboards"
                   onToggle={[Function]}
                 >
@@ -7191,10 +7191,10 @@ exports[`CollapsibleNav without custom branding renders the nav bar in default m
                               >
                                 <EuiIcon
                                   size="l"
-                                  type="/test/ui/logos/wazuh_mark_on_light.svg"
+                                  type="/test/ui/logos/vx.svg"
                                 >
                                   <span
-                                    data-euiicon-type="/test/ui/logos/wazuh_mark_on_light.svg"
+                                    data-euiicon-type="/test/ui/logos/vx.svg"
                                     size="l"
                                   />
                                 </EuiIcon>
