@@ -2166,10 +2166,10 @@ exports[`Header handles visibility and lock changes 1`] = `
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_mark_on_light.svg",
+        "url": "/ui/logos/vx.svg",
       },
       "OpenSearch": Object {
         "dark": Object {
@@ -3055,10 +3055,10 @@ exports[`Header handles visibility and lock changes 1`] = `
                         },
                         "light": Object {
                           "type": "default",
-                          "url": "/ui/logos/wazuh_mark_on_light.svg",
+                          "url": "/ui/logos/vx.svg",
                         },
                         "type": "default",
-                        "url": "/ui/logos/wazuh_mark_on_light.svg",
+                        "url": "/ui/logos/vx.svg",
                       },
                       "OpenSearch": Object {
                         "dark": Object {
@@ -3672,10 +3672,10 @@ exports[`Header handles visibility and lock changes 1`] = `
                           },
                           "light": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_mark_on_light.svg",
+                            "url": "/ui/logos/vx.svg",
                           },
                           "type": "default",
-                          "url": "/ui/logos/wazuh_mark_on_light.svg",
+                          "url": "/ui/logos/vx.svg",
                         },
                         "OpenSearch": Object {
                           "dark": Object {
@@ -4542,10 +4542,10 @@ exports[`Header handles visibility and lock changes 1`] = `
                           },
                           "light": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_mark_on_light.svg",
+                            "url": "/ui/logos/vx.svg",
                           },
                           "type": "default",
-                          "url": "/ui/logos/wazuh_mark_on_light.svg",
+                          "url": "/ui/logos/vx.svg",
                         },
                         "OpenSearch": Object {
                           "dark": Object {
@@ -4739,8 +4739,8 @@ exports[`Header handles visibility and lock changes 1`] = `
                                         >
                                           <span
                                             class="logoImage"
-                                            data-euiicon-type="/ui/logos/wazuh_mark_on_light.svg"
-                                            data-test-image-url="/ui/logos/wazuh_mark_on_light.svg"
+                                            data-euiicon-type="/ui/logos/vx.svg"
+                                            data-test-image-url="/ui/logos/vx.svg"
                                             data-test-subj="defaultMark"
                                             title="Wazuh dashboard home"
                                           />
@@ -4849,10 +4849,10 @@ exports[`Header handles visibility and lock changes 1`] = `
                                                 },
                                                 "light": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_mark_on_light.svg",
+                                                  "url": "/ui/logos/vx.svg",
                                                 },
                                                 "type": "default",
-                                                "url": "/ui/logos/wazuh_mark_on_light.svg",
+                                                "url": "/ui/logos/vx.svg",
                                               },
                                               "OpenSearch": Object {
                                                 "dark": Object {
@@ -4872,16 +4872,16 @@ exports[`Header handles visibility and lock changes 1`] = `
                                         >
                                           <EuiIcon
                                             className="logoImage"
-                                            data-test-image-url="/ui/logos/wazuh_mark_on_light.svg"
+                                            data-test-image-url="/ui/logos/vx.svg"
                                             data-test-subj="defaultMark"
                                             size="l"
                                             title="Wazuh dashboard home"
-                                            type="/ui/logos/wazuh_mark_on_light.svg"
+                                            type="/ui/logos/vx.svg"
                                           >
                                             <span
                                               className="logoImage"
-                                              data-euiicon-type="/ui/logos/wazuh_mark_on_light.svg"
-                                              data-test-image-url="/ui/logos/wazuh_mark_on_light.svg"
+                                              data-euiicon-type="/ui/logos/vx.svg"
+                                              data-test-image-url="/ui/logos/vx.svg"
                                               data-test-subj="defaultMark"
                                               size="l"
                                               title="Wazuh dashboard home"
@@ -7537,10 +7537,10 @@ exports[`Header handles visibility and lock changes 1`] = `
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_mark_on_light.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "OpenSearch": Object {
             "dark": Object {
@@ -9441,10 +9441,10 @@ exports[`Header renders application header without title and breadcrumbs 1`] = `
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_mark_on_light.svg",
+        "url": "/ui/logos/vx.svg",
       },
       "OpenSearch": Object {
         "dark": Object {
@@ -11034,10 +11034,10 @@ exports[`Header renders application header without title and breadcrumbs 1`] = `
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_mark_on_light.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "OpenSearch": Object {
             "dark": Object {
@@ -13368,10 +13368,10 @@ exports[`Header renders condensed header 1`] = `
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_mark_on_light.svg",
+        "url": "/ui/logos/vx.svg",
       },
       "OpenSearch": Object {
         "dark": Object {
@@ -14410,10 +14410,10 @@ exports[`Header renders condensed header 1`] = `
                           },
                           "light": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_mark_on_light.svg",
+                            "url": "/ui/logos/vx.svg",
                           },
                           "type": "default",
-                          "url": "/ui/logos/wazuh_mark_on_light.svg",
+                          "url": "/ui/logos/vx.svg",
                         },
                         "OpenSearch": Object {
                           "dark": Object {
@@ -14563,8 +14563,8 @@ exports[`Header renders condensed header 1`] = `
                                         >
                                           <span
                                             class="logoImage"
-                                            data-euiicon-type="/ui/logos/wazuh_mark_on_light.svg"
-                                            data-test-image-url="/ui/logos/wazuh_mark_on_light.svg"
+                                            data-euiicon-type="/ui/logos/vx.svg"
+                                            data-test-image-url="/ui/logos/vx.svg"
                                             data-test-subj="defaultMark"
                                             title="Wazuh dashboard home"
                                           />
@@ -14677,10 +14677,10 @@ exports[`Header renders condensed header 1`] = `
                                                 },
                                                 "light": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_mark_on_light.svg",
+                                                  "url": "/ui/logos/vx.svg",
                                                 },
                                                 "type": "default",
-                                                "url": "/ui/logos/wazuh_mark_on_light.svg",
+                                                "url": "/ui/logos/vx.svg",
                                               },
                                               "OpenSearch": Object {
                                                 "dark": Object {
@@ -14700,16 +14700,16 @@ exports[`Header renders condensed header 1`] = `
                                         >
                                           <EuiIcon
                                             className="logoImage"
-                                            data-test-image-url="/ui/logos/wazuh_mark_on_light.svg"
+                                            data-test-image-url="/ui/logos/vx.svg"
                                             data-test-subj="defaultMark"
                                             size="l"
                                             title="Wazuh dashboard home"
-                                            type="/ui/logos/wazuh_mark_on_light.svg"
+                                            type="/ui/logos/vx.svg"
                                           >
                                             <span
                                               className="logoImage"
-                                              data-euiicon-type="/ui/logos/wazuh_mark_on_light.svg"
-                                              data-test-image-url="/ui/logos/wazuh_mark_on_light.svg"
+                                              data-euiicon-type="/ui/logos/vx.svg"
+                                              data-test-image-url="/ui/logos/vx.svg"
                                               data-test-subj="defaultMark"
                                               size="l"
                                               title="Wazuh dashboard home"
@@ -17356,10 +17356,10 @@ exports[`Header renders condensed header 1`] = `
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_mark_on_light.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "OpenSearch": Object {
             "dark": Object {
@@ -18911,10 +18911,10 @@ exports[`Header renders page header with application title 1`] = `
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_mark_on_light.svg",
+        "url": "/ui/logos/vx.svg",
       },
       "OpenSearch": Object {
         "dark": Object {
@@ -21081,10 +21081,10 @@ exports[`Header renders page header with application title 1`] = `
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_mark_on_light.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "OpenSearch": Object {
             "dark": Object {
@@ -23415,10 +23415,10 @@ exports[`Header toggles primary navigation menu when clicked 1`] = `
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_mark_on_light.svg",
+        "url": "/ui/logos/vx.svg",
       },
       "OpenSearch": Object {
         "dark": Object {
@@ -24457,10 +24457,10 @@ exports[`Header toggles primary navigation menu when clicked 1`] = `
                           },
                           "light": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_mark_on_light.svg",
+                            "url": "/ui/logos/vx.svg",
                           },
                           "type": "default",
-                          "url": "/ui/logos/wazuh_mark_on_light.svg",
+                          "url": "/ui/logos/vx.svg",
                         },
                         "OpenSearch": Object {
                           "dark": Object {
@@ -24610,8 +24610,8 @@ exports[`Header toggles primary navigation menu when clicked 1`] = `
                                         >
                                           <span
                                             class="logoImage"
-                                            data-euiicon-type="/ui/logos/wazuh_mark_on_light.svg"
-                                            data-test-image-url="/ui/logos/wazuh_mark_on_light.svg"
+                                            data-euiicon-type="/ui/logos/vx.svg"
+                                            data-test-image-url="/ui/logos/vx.svg"
                                             data-test-subj="defaultMark"
                                             title="Wazuh dashboard home"
                                           />
@@ -24724,10 +24724,10 @@ exports[`Header toggles primary navigation menu when clicked 1`] = `
                                                 },
                                                 "light": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_mark_on_light.svg",
+                                                  "url": "/ui/logos/vx.svg",
                                                 },
                                                 "type": "default",
-                                                "url": "/ui/logos/wazuh_mark_on_light.svg",
+                                                "url": "/ui/logos/vx.svg",
                                               },
                                               "OpenSearch": Object {
                                                 "dark": Object {
@@ -24747,16 +24747,16 @@ exports[`Header toggles primary navigation menu when clicked 1`] = `
                                         >
                                           <EuiIcon
                                             className="logoImage"
-                                            data-test-image-url="/ui/logos/wazuh_mark_on_light.svg"
+                                            data-test-image-url="/ui/logos/vx.svg"
                                             data-test-subj="defaultMark"
                                             size="l"
                                             title="Wazuh dashboard home"
-                                            type="/ui/logos/wazuh_mark_on_light.svg"
+                                            type="/ui/logos/vx.svg"
                                           >
                                             <span
                                               className="logoImage"
-                                              data-euiicon-type="/ui/logos/wazuh_mark_on_light.svg"
-                                              data-test-image-url="/ui/logos/wazuh_mark_on_light.svg"
+                                              data-euiicon-type="/ui/logos/vx.svg"
+                                              data-test-image-url="/ui/logos/vx.svg"
                                               data-test-subj="defaultMark"
                                               size="l"
                                               title="Wazuh dashboard home"
@@ -27403,10 +27403,10 @@ exports[`Header toggles primary navigation menu when clicked 1`] = `
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_mark_on_light.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "OpenSearch": Object {
             "dark": Object {
