@@ -2138,26 +2138,26 @@ exports[`Header handles visibility and lock changes 1`] = `
       "Application": Object {
         "dark": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+        "url": "/ui/logos/vx_logo.svg",
       },
       "CenterMark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+        "url": "/ui/logos/vx.svg",
       },
       "Mark": Object {
         "dark": Object {
@@ -3027,26 +3027,26 @@ exports[`Header handles visibility and lock changes 1`] = `
                       "Application": Object {
                         "dark": Object {
                           "type": "default",
-                          "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                          "url": "/ui/logos/vx_logo.svg",
                         },
                         "light": Object {
                           "type": "default",
-                          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                          "url": "/ui/logos/vx_logo.svg",
                         },
                         "type": "default",
-                        "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                        "url": "/ui/logos/vx_logo.svg",
                       },
                       "CenterMark": Object {
                         "dark": Object {
                           "type": "default",
-                          "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                          "url": "/ui/logos/vx.svg",
                         },
                         "light": Object {
                           "type": "default",
-                          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                          "url": "/ui/logos/vx.svg",
                         },
                         "type": "default",
-                        "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                        "url": "/ui/logos/vx.svg",
                       },
                       "Mark": Object {
                         "dark": Object {
@@ -3644,26 +3644,26 @@ exports[`Header handles visibility and lock changes 1`] = `
                         "Application": Object {
                           "dark": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                            "url": "/ui/logos/vx_logo.svg",
                           },
                           "light": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                            "url": "/ui/logos/vx_logo.svg",
                           },
                           "type": "default",
-                          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                          "url": "/ui/logos/vx_logo.svg",
                         },
                         "CenterMark": Object {
                           "dark": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                            "url": "/ui/logos/vx.svg",
                           },
                           "light": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                            "url": "/ui/logos/vx.svg",
                           },
                           "type": "default",
-                          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                          "url": "/ui/logos/vx.svg",
                         },
                         "Mark": Object {
                           "dark": Object {
@@ -3834,10 +3834,10 @@ exports[`Header handles visibility and lock changes 1`] = `
                       <img
                         alt="opensearch dashboards logo"
                         className="logoImage"
-                        data-test-image-url="/ui/logos/wazuh_dashboards_on_dark.svg"
+                        data-test-image-url="/ui/logos/vx_logo.svg"
                         data-test-subj="defaultLogo"
                         loading="lazy"
-                        src="/ui/logos/wazuh_dashboards_on_dark.svg"
+                        src="/ui/logos/vx_logo.svg"
                       />
                     </a>
                   </HeaderLogo>
@@ -4514,26 +4514,26 @@ exports[`Header handles visibility and lock changes 1`] = `
                         "Application": Object {
                           "dark": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                            "url": "/ui/logos/vx_logo.svg",
                           },
                           "light": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                            "url": "/ui/logos/vx_logo.svg",
                           },
                           "type": "default",
-                          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                          "url": "/ui/logos/vx_logo.svg",
                         },
                         "CenterMark": Object {
                           "dark": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                            "url": "/ui/logos/vx.svg",
                           },
                           "light": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                            "url": "/ui/logos/vx.svg",
                           },
                           "type": "default",
-                          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                          "url": "/ui/logos/vx.svg",
                         },
                         "Mark": Object {
                           "dark": Object {
@@ -4821,26 +4821,26 @@ exports[`Header handles visibility and lock changes 1`] = `
                                               "Application": Object {
                                                 "dark": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                                                  "url": "/ui/logos/vx_logo.svg",
                                                 },
                                                 "light": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                                                  "url": "/ui/logos/vx_logo.svg",
                                                 },
                                                 "type": "default",
-                                                "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                                                "url": "/ui/logos/vx_logo.svg",
                                               },
                                               "CenterMark": Object {
                                                 "dark": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                                                  "url": "/ui/logos/vx.svg",
                                                 },
                                                 "light": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                                                  "url": "/ui/logos/vx.svg",
                                                 },
                                                 "type": "default",
-                                                "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                                                "url": "/ui/logos/vx.svg",
                                               },
                                               "Mark": Object {
                                                 "dark": Object {
@@ -7509,26 +7509,26 @@ exports[`Header handles visibility and lock changes 1`] = `
           "Application": Object {
             "dark": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+              "url": "/ui/logos/vx_logo.svg",
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+              "url": "/ui/logos/vx_logo.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "CenterMark": Object {
             "dark": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "Mark": Object {
             "dark": Object {
@@ -9413,26 +9413,26 @@ exports[`Header renders application header without title and breadcrumbs 1`] = `
       "Application": Object {
         "dark": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+        "url": "/ui/logos/vx_logo.svg",
       },
       "CenterMark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+        "url": "/ui/logos/vx.svg",
       },
       "Mark": Object {
         "dark": Object {
@@ -11006,26 +11006,26 @@ exports[`Header renders application header without title and breadcrumbs 1`] = `
           "Application": Object {
             "dark": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+              "url": "/ui/logos/vx_logo.svg",
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+              "url": "/ui/logos/vx_logo.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "CenterMark": Object {
             "dark": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "Mark": Object {
             "dark": Object {
@@ -13340,26 +13340,26 @@ exports[`Header renders condensed header 1`] = `
       "Application": Object {
         "dark": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+        "url": "/ui/logos/vx_logo.svg",
       },
       "CenterMark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+        "url": "/ui/logos/vx.svg",
       },
       "Mark": Object {
         "dark": Object {
@@ -14382,26 +14382,26 @@ exports[`Header renders condensed header 1`] = `
                         "Application": Object {
                           "dark": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                            "url": "/ui/logos/vx_logo.svg",
                           },
                           "light": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                            "url": "/ui/logos/vx_logo.svg",
                           },
                           "type": "default",
-                          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                          "url": "/ui/logos/vx_logo.svg",
                         },
                         "CenterMark": Object {
                           "dark": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                            "url": "/ui/logos/vx.svg",
                           },
                           "light": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                            "url": "/ui/logos/vx.svg",
                           },
                           "type": "default",
-                          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                          "url": "/ui/logos/vx.svg",
                         },
                         "Mark": Object {
                           "dark": Object {
@@ -14649,26 +14649,26 @@ exports[`Header renders condensed header 1`] = `
                                               "Application": Object {
                                                 "dark": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                                                  "url": "/ui/logos/vx_logo.svg",
                                                 },
                                                 "light": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                                                  "url": "/ui/logos/vx_logo.svg",
                                                 },
                                                 "type": "default",
-                                                "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                                                "url": "/ui/logos/vx_logo.svg",
                                               },
                                               "CenterMark": Object {
                                                 "dark": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                                                  "url": "/ui/logos/vx.svg",
                                                 },
                                                 "light": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                                                  "url": "/ui/logos/vx.svg",
                                                 },
                                                 "type": "default",
-                                                "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                                                "url": "/ui/logos/vx.svg",
                                               },
                                               "Mark": Object {
                                                 "dark": Object {
@@ -17328,26 +17328,26 @@ exports[`Header renders condensed header 1`] = `
           "Application": Object {
             "dark": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+              "url": "/ui/logos/vx_logo.svg",
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+              "url": "/ui/logos/vx_logo.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "CenterMark": Object {
             "dark": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "Mark": Object {
             "dark": Object {
@@ -18883,26 +18883,26 @@ exports[`Header renders page header with application title 1`] = `
       "Application": Object {
         "dark": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+        "url": "/ui/logos/vx_logo.svg",
       },
       "CenterMark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+        "url": "/ui/logos/vx.svg",
       },
       "Mark": Object {
         "dark": Object {
@@ -21053,26 +21053,26 @@ exports[`Header renders page header with application title 1`] = `
           "Application": Object {
             "dark": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+              "url": "/ui/logos/vx_logo.svg",
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+              "url": "/ui/logos/vx_logo.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "CenterMark": Object {
             "dark": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "Mark": Object {
             "dark": Object {
@@ -23387,26 +23387,26 @@ exports[`Header toggles primary navigation menu when clicked 1`] = `
       "Application": Object {
         "dark": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+        "url": "/ui/logos/vx_logo.svg",
       },
       "CenterMark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+        "url": "/ui/logos/vx.svg",
       },
       "Mark": Object {
         "dark": Object {
@@ -24429,26 +24429,26 @@ exports[`Header toggles primary navigation menu when clicked 1`] = `
                         "Application": Object {
                           "dark": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                            "url": "/ui/logos/vx_logo.svg",
                           },
                           "light": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                            "url": "/ui/logos/vx_logo.svg",
                           },
                           "type": "default",
-                          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                          "url": "/ui/logos/vx_logo.svg",
                         },
                         "CenterMark": Object {
                           "dark": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                            "url": "/ui/logos/vx.svg",
                           },
                           "light": Object {
                             "type": "default",
-                            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                            "url": "/ui/logos/vx.svg",
                           },
                           "type": "default",
-                          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                          "url": "/ui/logos/vx.svg",
                         },
                         "Mark": Object {
                           "dark": Object {
@@ -24696,26 +24696,26 @@ exports[`Header toggles primary navigation menu when clicked 1`] = `
                                               "Application": Object {
                                                 "dark": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                                                  "url": "/ui/logos/vx_logo.svg",
                                                 },
                                                 "light": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                                                  "url": "/ui/logos/vx_logo.svg",
                                                 },
                                                 "type": "default",
-                                                "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                                                "url": "/ui/logos/vx_logo.svg",
                                               },
                                               "CenterMark": Object {
                                                 "dark": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                                                  "url": "/ui/logos/vx.svg",
                                                 },
                                                 "light": Object {
                                                   "type": "default",
-                                                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                                                  "url": "/ui/logos/vx.svg",
                                                 },
                                                 "type": "default",
-                                                "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                                                "url": "/ui/logos/vx.svg",
                                               },
                                               "Mark": Object {
                                                 "dark": Object {
@@ -27375,26 +27375,26 @@ exports[`Header toggles primary navigation menu when clicked 1`] = `
           "Application": Object {
             "dark": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+              "url": "/ui/logos/vx_logo.svg",
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+              "url": "/ui/logos/vx_logo.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "CenterMark": Object {
             "dark": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "light": Object {
               "type": "default",
-              "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+              "url": "/ui/logos/vx.svg",
             },
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "Mark": Object {
             "dark": Object {

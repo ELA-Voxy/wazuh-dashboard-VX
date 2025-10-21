@@ -142,26 +142,26 @@ exports[`CollapsibleNav renders links grouped by category 1`] = `
       "Application": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_dashboards_on_dark.svg",
+          "url": "/test/ui/logos/vx_logo.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/test/ui/logos/vx_logo.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_dashboards_on_light.svg",
+        "url": "/test/ui/logos/vx_logo.svg",
       },
       "CenterMark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_center_mark_on_dark.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_center_mark_on_light.svg",
+        "url": "/test/ui/logos/vx.svg",
       },
       "Mark": Object {
         "dark": Object {
@@ -2090,26 +2090,26 @@ exports[`CollapsibleNav renders the default nav 1`] = `
       "Application": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_dashboards_on_dark.svg",
+          "url": "/test/ui/logos/vx_logo.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/test/ui/logos/vx_logo.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_dashboards_on_light.svg",
+        "url": "/test/ui/logos/vx_logo.svg",
       },
       "CenterMark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_center_mark_on_dark.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_center_mark_on_light.svg",
+        "url": "/test/ui/logos/vx.svg",
       },
       "Mark": Object {
         "dark": Object {
@@ -2396,26 +2396,26 @@ exports[`CollapsibleNav renders the default nav 2`] = `
       "Application": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_dashboards_on_dark.svg",
+          "url": "/test/ui/logos/vx_logo.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/test/ui/logos/vx_logo.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_dashboards_on_light.svg",
+        "url": "/test/ui/logos/vx_logo.svg",
       },
       "CenterMark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_center_mark_on_dark.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_center_mark_on_light.svg",
+        "url": "/test/ui/logos/vx.svg",
       },
       "Mark": Object {
         "dark": Object {
@@ -2702,26 +2702,26 @@ exports[`CollapsibleNav renders the default nav 3`] = `
       "Application": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_dashboards_on_dark.svg",
+          "url": "/test/ui/logos/vx_logo.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/test/ui/logos/vx_logo.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_dashboards_on_light.svg",
+        "url": "/test/ui/logos/vx_logo.svg",
       },
       "CenterMark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_center_mark_on_dark.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_center_mark_on_light.svg",
+        "url": "/test/ui/logos/vx.svg",
       },
       "Mark": Object {
         "dark": Object {
@@ -5543,26 +5543,26 @@ exports[`CollapsibleNav without custom branding renders the nav bar in dark mode
       "Application": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_dashboards_on_dark.svg",
+          "url": "/test/ui/logos/vx_logo.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/test/ui/logos/vx_logo.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_dashboards_on_dark.svg",
+        "url": "/test/ui/logos/vx_logo.svg",
       },
       "CenterMark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_center_mark_on_dark.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_center_mark_on_dark.svg",
+        "url": "/test/ui/logos/vx.svg",
       },
       "Mark": Object {
         "dark": Object {
@@ -6651,26 +6651,26 @@ exports[`CollapsibleNav without custom branding renders the nav bar in default m
       "Application": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_dashboards_on_dark.svg",
+          "url": "/test/ui/logos/vx_logo.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/test/ui/logos/vx_logo.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_dashboards_on_light.svg",
+        "url": "/test/ui/logos/vx_logo.svg",
       },
       "CenterMark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_center_mark_on_dark.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_center_mark_on_light.svg",
+        "url": "/test/ui/logos/vx.svg",
       },
       "Mark": Object {
         "dark": Object {
