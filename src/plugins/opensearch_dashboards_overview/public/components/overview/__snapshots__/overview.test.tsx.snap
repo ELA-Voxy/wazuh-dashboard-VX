@@ -224,7 +224,7 @@ exports[`Overview renders with news without solutions and without features 1`] =
         "Mark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
@@ -825,7 +825,7 @@ exports[`Overview renders with news, solutions, and features 1`] = `
         "Mark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
@@ -1310,7 +1310,7 @@ exports[`Overview renders with news, with solutions, and without features 1`] = 
         "Mark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
@@ -1795,7 +1795,7 @@ exports[`Overview renders with news, without solutions, and with features 1`] = 
         "Mark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
@@ -2340,7 +2340,7 @@ exports[`Overview renders without news and features, with solutions 1`] = `
         "Mark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
@@ -3004,7 +3004,7 @@ exports[`Overview renders without news and solutions, with features 1`] = `
         "Mark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
@@ -3728,7 +3728,7 @@ exports[`Overview renders without news, solutions, and features 1`] = `
         "Mark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
@@ -4508,7 +4508,7 @@ exports[`Overview renders without news, with solutions and features 1`] = `
         "Mark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",

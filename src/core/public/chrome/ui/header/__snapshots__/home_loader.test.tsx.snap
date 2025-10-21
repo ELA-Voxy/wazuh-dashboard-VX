@@ -59,7 +59,7 @@ exports[`Home loader displays a EuiToolTip 1`] = `
             "Mark": Object {
               "dark": Object {
                 "type": "default",
-                "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                "url": "/ui/logos/vx.svg",
               },
               "light": Object {
                 "type": "default",
@@ -166,7 +166,7 @@ exports[`Home loader shows the loading indicator if loading count > 0 1`] = `
             "Mark": Object {
               "dark": Object {
                 "type": "default",
-                "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                "url": "/ui/logos/vx.svg",
               },
               "light": Object {
                 "type": "default",

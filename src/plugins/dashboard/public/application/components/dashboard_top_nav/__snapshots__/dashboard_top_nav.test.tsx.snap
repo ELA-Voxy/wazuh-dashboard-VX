@@ -187,7 +187,7 @@ exports[`Dashboard top nav render in embed mode 1`] = `
                 "Mark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
@@ -1299,7 +1299,7 @@ exports[`Dashboard top nav render in embed mode, and force hide filter bar 1`] =
                 "Mark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
@@ -2411,7 +2411,7 @@ exports[`Dashboard top nav render in embed mode, components can be forced show b
                 "Mark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
@@ -3523,7 +3523,7 @@ exports[`Dashboard top nav render in full screen mode with appended URL param bu
                 "Mark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
@@ -4635,7 +4635,7 @@ exports[`Dashboard top nav render in full screen mode, no componenets should be 
                 "Mark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
@@ -5747,7 +5747,7 @@ exports[`Dashboard top nav render with all components 1`] = `
                 "Mark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",

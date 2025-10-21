@@ -166,7 +166,7 @@ exports[`CollapsibleNav renders links grouped by category 1`] = `
       "Mark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_mark_on_dark.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
@@ -2114,7 +2114,7 @@ exports[`CollapsibleNav renders the default nav 1`] = `
       "Mark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_mark_on_dark.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
@@ -2420,7 +2420,7 @@ exports[`CollapsibleNav renders the default nav 2`] = `
       "Mark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_mark_on_dark.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
@@ -2726,7 +2726,7 @@ exports[`CollapsibleNav renders the default nav 3`] = `
       "Mark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_mark_on_dark.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
@@ -5567,14 +5567,14 @@ exports[`CollapsibleNav without custom branding renders the nav bar in dark mode
       "Mark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_mark_on_dark.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",
           "url": "/test/ui/logos/vx.svg",
         },
         "type": "default",
-        "url": "/test/ui/logos/wazuh_mark_on_dark.svg",
+        "url": "/test/ui/logos/vx.svg",
       },
       "OpenSearch": Object {
         "dark": Object {
@@ -5982,9 +5982,9 @@ exports[`CollapsibleNav without custom branding renders the nav bar in dark mode
             className="euiFlexItem eui-yScroll"
           >
             <EuiCollapsibleNavGroup
-              data-test-opensearch-logo="/test/ui/logos/wazuh_mark_on_dark.svg"
+              data-test-opensearch-logo="/test/ui/logos/vx.svg"
               data-test-subj="collapsibleNavGroup-opensearchDashboards"
-              iconType="/test/ui/logos/wazuh_mark_on_dark.svg"
+              iconType="/test/ui/logos/vx.svg"
               initialIsOpen={true}
               isCollapsible={true}
               key="opensearchDashboards"
@@ -6005,7 +6005,7 @@ exports[`CollapsibleNav without custom branding renders the nav bar in dark mode
                     >
                       <EuiIcon
                         size="l"
-                        type="/test/ui/logos/wazuh_mark_on_dark.svg"
+                        type="/test/ui/logos/vx.svg"
                       />
                     </EuiFlexItem>
                     <EuiFlexItem>
@@ -6023,7 +6023,7 @@ exports[`CollapsibleNav without custom branding renders the nav bar in dark mode
                   </EuiFlexGroup>
                 }
                 className="euiCollapsibleNavGroup euiCollapsibleNavGroup--withHeading"
-                data-test-opensearch-logo="/test/ui/logos/wazuh_mark_on_dark.svg"
+                data-test-opensearch-logo="/test/ui/logos/vx.svg"
                 data-test-subj="collapsibleNavGroup-opensearchDashboards"
                 id="mockId"
                 initialIsOpen={true}
@@ -6034,7 +6034,7 @@ exports[`CollapsibleNav without custom branding renders the nav bar in dark mode
               >
                 <div
                   className="euiAccordion euiAccordion-isOpen euiCollapsibleNavGroup euiCollapsibleNavGroup--withHeading"
-                  data-test-opensearch-logo="/test/ui/logos/wazuh_mark_on_dark.svg"
+                  data-test-opensearch-logo="/test/ui/logos/vx.svg"
                   data-test-subj="collapsibleNavGroup-opensearchDashboards"
                   onToggle={[Function]}
                 >
@@ -6083,10 +6083,10 @@ exports[`CollapsibleNav without custom branding renders the nav bar in dark mode
                               >
                                 <EuiIcon
                                   size="l"
-                                  type="/test/ui/logos/wazuh_mark_on_dark.svg"
+                                  type="/test/ui/logos/vx.svg"
                                 >
                                   <span
-                                    data-euiicon-type="/test/ui/logos/wazuh_mark_on_dark.svg"
+                                    data-euiicon-type="/test/ui/logos/vx.svg"
                                     size="l"
                                   />
                                 </EuiIcon>
@@ -6675,7 +6675,7 @@ exports[`CollapsibleNav without custom branding renders the nav bar in default m
       "Mark": Object {
         "dark": Object {
           "type": "default",
-          "url": "/test/ui/logos/wazuh_mark_on_dark.svg",
+          "url": "/test/ui/logos/vx.svg",
         },
         "light": Object {
           "type": "default",

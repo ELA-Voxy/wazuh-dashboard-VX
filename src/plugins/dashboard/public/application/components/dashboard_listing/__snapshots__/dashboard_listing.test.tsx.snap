@@ -189,7 +189,7 @@ exports[`dashboard listing hideWriteControls 1`] = `
                 "Mark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
@@ -1392,7 +1392,7 @@ exports[`dashboard listing render table listing with initial filters from URL 1`
                 "Mark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
@@ -2661,7 +2661,7 @@ exports[`dashboard listing renders call to action when no dashboards exist 1`] =
                 "Mark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
@@ -3930,7 +3930,7 @@ exports[`dashboard listing renders table rows 1`] = `
                 "Mark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
@@ -5199,7 +5199,7 @@ exports[`dashboard listing renders warning when listingLimit is exceeded 1`] = `
                 "Mark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
