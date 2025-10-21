@@ -200,26 +200,26 @@ exports[`Overview renders with news without solutions and without features 1`] =
         "Application": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "CenterMark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "Mark": Object {
           "dark": Object {
@@ -801,26 +801,26 @@ exports[`Overview renders with news, solutions, and features 1`] = `
         "Application": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "CenterMark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "Mark": Object {
           "dark": Object {
@@ -1286,26 +1286,26 @@ exports[`Overview renders with news, with solutions, and without features 1`] = 
         "Application": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "CenterMark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "Mark": Object {
           "dark": Object {
@@ -1771,26 +1771,26 @@ exports[`Overview renders with news, without solutions, and with features 1`] = 
         "Application": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "CenterMark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "Mark": Object {
           "dark": Object {
@@ -2316,26 +2316,26 @@ exports[`Overview renders without news and features, with solutions 1`] = `
         "Application": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "CenterMark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "Mark": Object {
           "dark": Object {
@@ -2980,26 +2980,26 @@ exports[`Overview renders without news and solutions, with features 1`] = `
         "Application": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "CenterMark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "Mark": Object {
           "dark": Object {
@@ -3704,26 +3704,26 @@ exports[`Overview renders without news, solutions, and features 1`] = `
         "Application": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "CenterMark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "Mark": Object {
           "dark": Object {
@@ -4484,26 +4484,26 @@ exports[`Overview renders without news, with solutions and features 1`] = `
         "Application": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+            "url": "/ui/logos/vx_logo.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+          "url": "/ui/logos/vx_logo.svg",
         },
         "CenterMark": Object {
           "dark": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "light": Object {
             "type": "default",
-            "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+            "url": "/ui/logos/vx.svg",
           },
           "type": "default",
-          "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+          "url": "/ui/logos/vx.svg",
         },
         "Mark": Object {
           "dark": Object {

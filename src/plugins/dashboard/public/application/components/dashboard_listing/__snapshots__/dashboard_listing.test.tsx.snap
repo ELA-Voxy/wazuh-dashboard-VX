@@ -165,26 +165,26 @@ exports[`dashboard listing hideWriteControls 1`] = `
                 "Application": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                  "url": "/ui/logos/vx_logo.svg",
                 },
                 "CenterMark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                  "url": "/ui/logos/vx.svg",
                 },
                 "Mark": Object {
                   "dark": Object {
@@ -1368,26 +1368,26 @@ exports[`dashboard listing render table listing with initial filters from URL 1`
                 "Application": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                  "url": "/ui/logos/vx_logo.svg",
                 },
                 "CenterMark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                  "url": "/ui/logos/vx.svg",
                 },
                 "Mark": Object {
                   "dark": Object {
@@ -2637,26 +2637,26 @@ exports[`dashboard listing renders call to action when no dashboards exist 1`] =
                 "Application": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                  "url": "/ui/logos/vx_logo.svg",
                 },
                 "CenterMark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                  "url": "/ui/logos/vx.svg",
                 },
                 "Mark": Object {
                   "dark": Object {
@@ -3906,26 +3906,26 @@ exports[`dashboard listing renders table rows 1`] = `
                 "Application": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                  "url": "/ui/logos/vx_logo.svg",
                 },
                 "CenterMark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                  "url": "/ui/logos/vx.svg",
                 },
                 "Mark": Object {
                   "dark": Object {
@@ -5175,26 +5175,26 @@ exports[`dashboard listing renders warning when listingLimit is exceeded 1`] = `
                 "Application": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                  "url": "/ui/logos/vx_logo.svg",
                 },
                 "CenterMark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                  "url": "/ui/logos/vx.svg",
                 },
                 "Mark": Object {
                   "dark": Object {

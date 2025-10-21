@@ -163,26 +163,26 @@ exports[`Dashboard top nav render in embed mode 1`] = `
                 "Application": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                  "url": "/ui/logos/vx_logo.svg",
                 },
                 "CenterMark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                  "url": "/ui/logos/vx.svg",
                 },
                 "Mark": Object {
                   "dark": Object {
@@ -1275,26 +1275,26 @@ exports[`Dashboard top nav render in embed mode, and force hide filter bar 1`] =
                 "Application": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                  "url": "/ui/logos/vx_logo.svg",
                 },
                 "CenterMark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                  "url": "/ui/logos/vx.svg",
                 },
                 "Mark": Object {
                   "dark": Object {
@@ -2387,26 +2387,26 @@ exports[`Dashboard top nav render in embed mode, components can be forced show b
                 "Application": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                  "url": "/ui/logos/vx_logo.svg",
                 },
                 "CenterMark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                  "url": "/ui/logos/vx.svg",
                 },
                 "Mark": Object {
                   "dark": Object {
@@ -3499,26 +3499,26 @@ exports[`Dashboard top nav render in full screen mode with appended URL param bu
                 "Application": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                  "url": "/ui/logos/vx_logo.svg",
                 },
                 "CenterMark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                  "url": "/ui/logos/vx.svg",
                 },
                 "Mark": Object {
                   "dark": Object {
@@ -4611,26 +4611,26 @@ exports[`Dashboard top nav render in full screen mode, no componenets should be 
                 "Application": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                  "url": "/ui/logos/vx_logo.svg",
                 },
                 "CenterMark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                  "url": "/ui/logos/vx.svg",
                 },
                 "Mark": Object {
                   "dark": Object {
@@ -5723,26 +5723,26 @@ exports[`Dashboard top nav render with all components 1`] = `
                 "Application": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_dark.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                    "url": "/ui/logos/vx_logo.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_dashboards_on_light.svg",
+                  "url": "/ui/logos/vx_logo.svg",
                 },
                 "CenterMark": Object {
                   "dark": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_dark.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "light": Object {
                     "type": "default",
-                    "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                    "url": "/ui/logos/vx.svg",
                   },
                   "type": "default",
-                  "url": "/ui/logos/wazuh_center_mark_on_light.svg",
+                  "url": "/ui/logos/vx.svg",
                 },
                 "Mark": Object {
                   "dark": Object {

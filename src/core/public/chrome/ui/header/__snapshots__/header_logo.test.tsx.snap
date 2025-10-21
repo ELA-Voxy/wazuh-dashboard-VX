@@ -30,10 +30,10 @@ exports[`Header logo uses default application title when not branded 1`] = `
   <img
     alt="opensearch dashboards logo"
     className="logoImage"
-    data-test-image-url="/ui/logos/wazuh_dashboards_on_light.svg"
+    data-test-image-url="/ui/logos/vx_logo.svg"
     data-test-subj="defaultLogo"
     loading="lazy"
-    src="/ui/logos/wazuh_dashboards_on_light.svg"
+    src="/ui/logos/vx_logo.svg"
   />
 </a>
 `;
